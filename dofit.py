@@ -25,7 +25,7 @@ from astropy.io import fits as pyfits
 #
 version='0.1a'
 date='- Tue Jul 21 11:16:23 EDT 2015 -'
-author='Javier Garcia'
+author='Javier Garcia (Harvard-Smithsonian CfA)'
 #
 ul=[]
 ul.append("usage: %prog [options] PREFIX")
